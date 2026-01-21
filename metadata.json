@@ -1,0 +1,5 @@
+{
+  "name": "Copy of Junior Journal",
+  "description": "A delightful, child-friendly news application that fetches the latest top 3 stories, simplifies them for kids, and can read them aloud using Gemini AI.",
+  "requestFramePermissions": []
+}
